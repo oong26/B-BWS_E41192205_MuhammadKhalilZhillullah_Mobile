@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="desc_kawah_ijen">
+        Gunung Ijen adalah sebuah gunung berapi yang terletak di perbatasan antara Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.386 mdpl dan terletak berdampingan dengan Gunung Merapi. Gunung Ijen terakhir meletus pada tahun 1999.
+    </string>
+    <string name="desc_kawah_wurung">
+        Kawah Wurung terkenal akan perbukitannya yang diselimuti padang rumput hijau. Seperti namanya, kawasan ini sesungguhnya memang adalah area kawah. Namun tidak mengeluarkan isi perut bumi selayaknya kawah-kawah lainnya.
+    </string>
+    <string name="desc_bromo">
+        Gunung Bromo atau dalam bahasa Tengger dieja "Brama", adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang. 
+    </string>
+    <string name="desc_pasir_putih">
+        Pantai dengan pasir putih selalu menjadi incaran bagi para pengunjung, salah satunya ialah Pantai Pasir Putih Situbondo. Pantai ini selalu ramai dikunjungi wisatawan yang datang dari berbagai daerah.
+    </string>
+    <string name="desc_teluk_love">
+        Pemandangan teluk berbentuk hati yang luas dan terkenal, ditandai dengan akses masuk yang ramai dan artistik.
+    </string>
+    <string name="desc_pandawa">
+        Pantai Pandawa adalah salah satu kawasan wisata di area Kuta selatan, Kabupaten Badung, Bali. Pantai ini terletak di balik perbukitan dan sering disebut sebagai Pantai Rahasia. Di sekitar pantai ini terdapat dua tebing yang sangat besar yang pada salah satu sisinya dipahat lima patung Pandawa dan Kunti.
+    </string>
+    <string-array name="title">
+        <item>Kawah Ijen</item>
+        <item>Kawah Wurung</item>
+        <item>Bromo</item>
+        <item>Pasir Putih</item>
+        <item>Teluk Love</item>
+        <item>Pantai Pandawa</item>
+    </string-array>
+    <string-array name="desc">
+        <item>
+            Gunung Ijen adalah sebuah gunung berapi yang terletak di perbatasan antara Kabupaten Banyuwangi dan Kabupaten Bondowoso, Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.386 mdpl dan terletak berdampingan dengan Gunung Merapi. Gunung Ijen terakhir meletus pada tahun 1999.
+        </item>
+        <item>
+            Kawah Wurung terkenal akan perbukitannya yang diselimuti padang rumput hijau. Seperti namanya, kawasan ini sesungguhnya memang adalah area kawah. Namun tidak mengeluarkan isi perut bumi selayaknya kawah-kawah lainnya.
+        </item>
+        <item>
+            Gunung Bromo atau dalam bahasa Tengger dieja "Brama", adalah sebuah gunung berapi aktif di Jawa Timur, Indonesia. Gunung ini memiliki ketinggian 2.329 meter di atas permukaan laut dan berada dalam empat wilayah kabupaten, yakni Kabupaten Probolinggo, Kabupaten Pasuruan, Kabupaten Lumajang, dan Kabupaten Malang.
+        </item>
+        <item>
+            Pantai dengan pasir putih selalu menjadi incaran bagi para pengunjung, salah satunya ialah Pantai Pasir Putih Situbondo. Pantai ini selalu ramai dikunjungi wisatawan yang datang dari berbagai daerah.
+        </item>
+        <item>
+            Pemandangan teluk berbentuk hati yang luas dan terkenal, ditandai dengan akses masuk yang ramai dan artistik.
+        </item>
+        <item>
+            Pantai Pandawa adalah salah satu kawasan wisata di area Kuta selatan, Kabupaten Badung, Bali. Pantai ini terletak di balik perbukitan dan sering disebut sebagai Pantai Rahasia. Di sekitar pantai ini terdapat dua tebing yang sangat besar yang pada salah satu sisinya dipahat lima patung Pandawa dan Kunti.
+        </item>
+    </string-array>
+</resources>

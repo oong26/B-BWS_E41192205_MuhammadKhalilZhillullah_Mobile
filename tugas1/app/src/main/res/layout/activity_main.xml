@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="12dp"
+    tools:context=".MainActivity">
+
+    <TableRow
+        android:gravity="center"
+        android:layout_marginTop="20dip">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:text="Linear\nLayout"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:text="Relative\nLayout"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:text="Constraint\nLayout"/>
+
+    </TableRow>
+
+    <TableRow
+        android:gravity="center"
+        android:layout_marginTop="20dip">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:layout_margin="8dp"
+            android:text="Linear\nLayout"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:layout_marginRight="8dp"
+            android:text="Table\nLayout"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_weight="1"
+            android:text="Material\nLayout"/>
+
+    </TableRow>
+
+    <TableRow
+        android:gravity="left"
+        android:layout_marginTop="20dip">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:layout_margin="8dp"
+            android:text="Scrollview"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="90dp"
+            android:text="Horizontal\nScrollview"/>
+
+    </TableRow>
+
+</TableLayout>

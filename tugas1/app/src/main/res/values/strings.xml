@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">tugas1</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="tombol">Tombol</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="text_button">Text Button</string>
+    <string name="scrollview">Scrollview</string>
+    <string name="welcome">Welcome to Tutlane</string>
+    <string name="button_one">Button One</string>
+    <string name="button_two">Button Two</string>
+    <string name="button_three">Button Three</string>
+    <string name="button_four">Button Four</string>
+    <string name="button_five">Button Five</string>
+    <string name="button_six">Button Six</string>
+    <string name="button_seven">Button Seven</string>
+    <string name="button_eight">Button Eight</string>
+    <string name="button_nine">Button Nine</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">gps_sensor</string>
+    <string name="gps">GPS</string>
+    <string name="pilih_menu">Pilih Menu</string>
+    <string name="sensor">sensor</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
